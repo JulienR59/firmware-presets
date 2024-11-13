@@ -1,0 +1,19 @@
+#$ TITLE: JRX OSD
+#$ FIRMWARE_VERSION: 4.5
+#$ CATEGORY: OSD
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS:HD, HDOSD, OSD
+#$ AUTHOR: Julien Rouaix
+
+#$ DESCRIPTION: JRX OSD
+
+#$ INCLUDE: presets/4.4/osd/defaults.txt
+
+set osd_avg_cell_voltage_pos = 2065
+set osd_current_pos = 2599
+set osd_mah_drawn_pos = 2599
+set osd_craft_name_pos = 2053
+set osd_disarmed_pos = 2608
+set osd_link_quality_pos = 3114
+set osd_tim2 = 2561
+set osd_warnings_pos = 2072
